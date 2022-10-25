@@ -34,7 +34,9 @@ I'm a passionate learner for web development, looking for work experience that a
 <p> - 😈  Currently: Frontend Developer </p>
 <p> - 🎯  In progress: Full Stack Developer <p>
 <p> - 🤝  Open for work, freelance... </p>
-</div>&nbsp;
+</div>
+
+---
 
 <div align="center">
 <h2>
@@ -81,7 +83,9 @@ I'm a passionate learner for web development, looking for work experience that a
 <div>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </div>
-</div> &nbsp;
+</div>
+
+---
 
 <h2 align="center"> 📊 GitHub Stats </h2>
 
